@@ -18,15 +18,21 @@ namespace hl2005wonlauncher
                 Directory.CreateDirectory(Environment.ExpandEnvironmentVariables("%localappdata%/HL WON 2005 Launcher"));
             if (File.Exists(Environment.ExpandEnvironmentVariables("%localappdata%/HL WON 2005 Launcher") + "/save"))
             {
-                var sr = new StreamReader(File.OpenRead(Environment.ExpandEnvironmentVariables("%localappdata%/HL WON 2005 Launcher") + "/save"));
-                var p = sr.ReadToEnd().Split("\n\r".ToCharArray(), StringSplitOptions.RemoveEmptyEntries);
-                path.Text = p[0];
-                parametres.Text = p[1];
-                bxtCheck.Checked = bool.Parse(p[2]);
-                riCheck.Checked = bool.Parse(p[3]);
-                close.Checked = bool.Parse(p[4]);
-                priority.SelectedItem = p[4];
-                sr.Close();
+            	var p = File.ReadAllLines(Environment.ExpandEnvironmentVariables("%localappdata%/HL WON 2005 Launcher") + "/save");
+		try
+		{
+                    path.Text = p[0];
+                    parametres.Text = p[1];
+                    bxtCheck.Checked = bool.Parse(p[2]);
+                    riCheck.Checked = bool.Parse(p[3]);
+                    close.Checked = bool.Parse(p[4]);
+                    wind.Checked = bool.Parse(p[5]);
+                    priority.SelectedItem = p[6];
+		}
+                catch
+		{
+                    priority.SelectedItem = "Normal";
+		}
             }
             else
             {
