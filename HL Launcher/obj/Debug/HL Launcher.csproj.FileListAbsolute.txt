@@ -1,0 +1,9 @@
+F:\HL Launcher\HL Launcher\bin\Debug\HL Launcher.exe.config
+F:\HL Launcher\HL Launcher\bin\Debug\HL Launcher.exe
+F:\HL Launcher\HL Launcher\bin\Debug\HL Launcher.pdb
+F:\HL Launcher\HL Launcher\obj\Debug\hl2005wonlauncher.Form1.resources
+F:\HL Launcher\HL Launcher\obj\Debug\HL_Launcher.Properties.Resources.resources
+F:\HL Launcher\HL Launcher\obj\Debug\HL Launcher.csproj.GenerateResource.cache
+F:\HL Launcher\HL Launcher\obj\Debug\HL Launcher.csproj.CoreCompileInputs.cache
+F:\HL Launcher\HL Launcher\obj\Debug\HL Launcher.exe
+F:\HL Launcher\HL Launcher\obj\Debug\HL Launcher.pdb

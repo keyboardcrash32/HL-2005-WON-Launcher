@@ -1,0 +1,20 @@
+D:\HL Launcher\HL Launcher\bin\Release\HL Launcher.exe.config
+D:\HL Launcher\HL Launcher\bin\Release\HL Launcher.exe
+D:\HL Launcher\HL Launcher\bin\Release\HL Launcher.pdb
+D:\HL Launcher\HL Launcher\obj\Release\HL Launcher.csproj.AssemblyReference.cache
+D:\HL Launcher\HL Launcher\obj\Release\hl2005wonlauncher.Form1.resources
+D:\HL Launcher\HL Launcher\obj\Release\HL_Launcher.Properties.Resources.resources
+D:\HL Launcher\HL Launcher\obj\Release\HL Launcher.csproj.GenerateResource.cache
+D:\HL Launcher\HL Launcher\obj\Release\HL Launcher.csproj.CoreCompileInputs.cache
+D:\HL Launcher\HL Launcher\obj\Release\HL Launcher.exe
+D:\HL Launcher\HL Launcher\obj\Release\HL Launcher.pdb
+F:\HL Launcher\HL Launcher\bin\Release\HL Launcher.exe.config
+F:\HL Launcher\HL Launcher\bin\Release\HL Launcher.exe
+F:\HL Launcher\HL Launcher\bin\Release\HL Launcher.pdb
+F:\HL Launcher\HL Launcher\obj\Release\HL Launcher.csproj.AssemblyReference.cache
+F:\HL Launcher\HL Launcher\obj\Release\hl2005wonlauncher.Form1.resources
+F:\HL Launcher\HL Launcher\obj\Release\HL_Launcher.Properties.Resources.resources
+F:\HL Launcher\HL Launcher\obj\Release\HL Launcher.csproj.GenerateResource.cache
+F:\HL Launcher\HL Launcher\obj\Release\HL Launcher.csproj.CoreCompileInputs.cache
+F:\HL Launcher\HL Launcher\obj\Release\HL Launcher.exe
+F:\HL Launcher\HL Launcher\obj\Release\HL Launcher.pdb
