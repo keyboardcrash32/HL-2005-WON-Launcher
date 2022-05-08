@@ -26,8 +26,7 @@ namespace hl2005wonlauncher
                     bxtCheck.Checked = bool.Parse(p[2]);
                     riCheck.Checked = bool.Parse(p[3]);
                     close.Checked = bool.Parse(p[4]);
-                    wind.Checked = bool.Parse(p[5]);
-                    priority.SelectedItem = p[6];
+                    priority.SelectedItem = p[5];
 		}
                 catch
 		{
